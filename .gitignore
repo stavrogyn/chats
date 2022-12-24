@@ -2,7 +2,6 @@
 /dist
 /node_modules
 .env
-/client/build
 
 # Logs
 logs
@@ -36,3 +35,8 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Client
+/client/build
+/client/node_modules
+/client/yarn-error.log
