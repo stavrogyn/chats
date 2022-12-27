@@ -38,5 +38,6 @@ lerna-debug.log*
 
 # Client
 /client/build
+/client/dist
 /client/node_modules
 /client/yarn-error.log
