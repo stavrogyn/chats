@@ -1,3 +1,3 @@
 export enum RepositoryType {
-  User = 'USER_REPOSITORY',
+  Users = 'USERS_REPOSITORY',
 }

@@ -19,6 +19,8 @@
     "noFallthroughCasesInSwitch": false,
     "paths": {
       "&enitities/*": ["src/enitities/*"],
-    },
+      "&modules/*": ["src/modules/*"],
+      "&shared/*": ["src/shared/*"]
+    }
   }
 }
